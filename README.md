@@ -13,6 +13,8 @@ Usage
 Usage: Run KnightTravails.exe first_square end_square
 Where first square and end_square are specified in chess notation, eg "A1" or "h7". 
 
-Example:
+Example Usage
+-------------
+
 $ KnightTravails.exe A1 H8
->> An optimal path from A1 to H8 found, containing 6 steps: B3 C5 D7 E5 F7 H8
+An optimal path from A1 to H8 found, containing 6 steps: B3 C5 D7 E5 F7 H8
